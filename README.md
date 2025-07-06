@@ -1,4 +1,4 @@
-# 🚀 Ethereum Transaction Bot
+# 🚀 Union Transaction Bot
 
 An automated Ethereum transaction bot that sends transactions with customizable intervals and transaction counts.
 
