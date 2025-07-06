@@ -36,8 +36,8 @@ eth-account>=0.8.0
 
 ### 1. Clone or Download
 ```bash
-git clone <repository-url>
-cd ethereum-transaction-bot
+git clone https://github.com/ataates17/Union-Transfer-Bot.git
+cd Union-Transfer-Bot
 ```
 
 ### 2. Install Python Dependencies
